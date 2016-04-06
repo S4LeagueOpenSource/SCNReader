@@ -1,0 +1,11 @@
+{
+	"name": "S4LeagueSCNReader",
+	"description": "Read SCN Files of the Game S4 League.",
+	"author": "S4LeagueOpenSource",
+	"dependencies" : {
+		"async": "2.0.0-rc.2",
+		"colors": "1.1.2",
+		"int53": "0.2.4",
+		"smart-buffer": "1.0.3"
+	}
+}
